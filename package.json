@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "castv2-client": "0.0.8",
-    "upnp-mediarenderer-client": "0.0.2"
+    "upnp-mediarenderer-client": "^1.2.4"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
